@@ -26,7 +26,7 @@ A Python-based project implementing a real-time active noise cancellation (ANC) 
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://your.repo.url/project.git](https://github.com/MiMickyyy/NICU-Noise-Shield.git)
+   git clone [https://github.com/MiMickyyy/NICU-Noise-Shield.git]
    cd project
    ```
 
