@@ -100,18 +100,3 @@ python -m controller
 ---
 
 
-```
-
----
-
-## License
-
-
-
----
-
-## Acknowledgments
-
-- Based on the LMS algorithm and Mel-spectrogram classification workflows.
-- Uses `sounddevice`, `librosa`, `tensorflow`, and `matplotlib`.
-
